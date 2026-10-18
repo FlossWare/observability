@@ -29,9 +29,9 @@ prometheus = ["prometheus_client"]
 dev = ["pytest", "pytest-asyncio", "ruff", "mypy", "bandit"]
 
 [project.urls]
-Homepage = "https://github.com/FlossWare/observability-ai"
-Repository = "https://github.com/FlossWare/observability-ai"
-Issues = "https://github.com/FlossWare/observability-ai/issues"
+Homepage = "https://github.com/FlossWare/observability"
+Repository = "https://github.com/FlossWare/observability"
+Issues = "https://github.com/FlossWare/observability/issues"
 
 [tool.setuptools.packages.find]
 include = ["observability_ai*"]
